@@ -7,6 +7,7 @@
 - Python and Jupyter notebook were used to configure the analysis environment.
 - By analyzing the data of passengers boarding the Titanic, it is possible to predict the passenger's death.
 - Logistic Regression Model has been bulit.
+- Accuracy: 81%
 
 Libraries used : Numpy, Pandas, Matplotlib and Seaborn
 
